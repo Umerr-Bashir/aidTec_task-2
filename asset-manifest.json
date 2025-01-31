@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/frosvert/static/css/main.0366c765.css",
-    "main.js": "/frosvert/static/js/main.d05a2203.js",
+    "main.css": "/frosvert/static/css/main.76559798.css",
+    "main.js": "/frosvert/static/js/main.ff61fcad.js",
     "static/js/787.333ed46d.chunk.js": "/frosvert/static/js/787.333ed46d.chunk.js",
     "static/media/bg-dark2.jpg": "/frosvert/static/media/bg-dark2.3dd2a423adb5b1b138c8.jpg",
     "static/media/bg-dark4.jpg": "/frosvert/static/media/bg-dark4.e895744d7b20f6eee8e2.jpg",
     "index.html": "/frosvert/index.html",
-    "main.0366c765.css.map": "/frosvert/static/css/main.0366c765.css.map",
-    "main.d05a2203.js.map": "/frosvert/static/js/main.d05a2203.js.map",
+    "main.76559798.css.map": "/frosvert/static/css/main.76559798.css.map",
+    "main.ff61fcad.js.map": "/frosvert/static/js/main.ff61fcad.js.map",
     "787.333ed46d.chunk.js.map": "/frosvert/static/js/787.333ed46d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0366c765.css",
-    "static/js/main.d05a2203.js"
+    "static/css/main.76559798.css",
+    "static/js/main.ff61fcad.js"
   ]
 }
